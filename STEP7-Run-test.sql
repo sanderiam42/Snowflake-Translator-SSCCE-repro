@@ -1,0 +1,3 @@
+use role analyst;
+use SAMPLE_DATABASE;
+SELECT * FROM SAMPLE_TABLE;
