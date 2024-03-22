@@ -8,4 +8,4 @@ After establishing the role and its permissions, the next step is to assign the 
 This ensures that the specified user has the access rights provided by the role. Make sure to 
 replace ${your_user} with your actual username
 */
-grant role analyst to user ${you_user};
+grant role analyst to user ${your_user};
